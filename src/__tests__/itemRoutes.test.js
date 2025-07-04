@@ -1,0 +1,2 @@
+I'll analyze the itemRoutes.js file and create comprehensive unit tests. Let me first examine the file structure and dependencies to understand the testing requirements.
+Let me search for the itemRoutes.js file in the project structure:
